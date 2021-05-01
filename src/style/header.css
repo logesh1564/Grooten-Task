@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.News-category{
+ text-align: center;
+ margin-top:15px;
+}
+.header{
+    position: sticky;
+    bottom: auto;
+    width: 100%;
+    z-index:3;
+    top:0;
+}

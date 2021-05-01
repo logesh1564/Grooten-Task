@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.commentBox{
+    padding: 1%;
+    border: 2px solid gray;
+    background-image: linear-gradient(to bottom,rgb(201, 200, 200),white);
+    width: 100%;
+    /* margin-left: 5%; */
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    margin: 3% 1% 2% 2%;
+}

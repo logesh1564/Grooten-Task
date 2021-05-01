@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(234,237,237);
+    /* background-color: brown; */
+}
+.BestStories{
+    background-color: #d5a4ff;
+    margin-top: 40px;
+}
+.TopStories{
+    background-color:lightseagreen;
+    margin-top: 40px;
+}
+
+.NewStories{
+    background-color:wheat;
+}

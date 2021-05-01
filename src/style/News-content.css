@@ -1,0 +1,35 @@
+.product{
+    display:flex;
+    flex-direction:column;
+    /* background:blue; */
+    background:white;
+    /* align-items: center; */
+    justify-content: flex-end;
+    margin:10px;
+    padding:20px;
+    width:100%;
+    max-height:400px;
+    min-width: 100px;
+    z-index:1;
+}
+.product-info{
+    height:100%;
+    margin-bottom: 15px;
+    width: 100%;
+    /* color: yellow; */
+    /* background-color: yellow;
+     */
+     color:blue;
+}
+
+.details{
+    display: flex;
+}
+.product-timing{
+    margin-left: 20px;
+
+}
+
+.link{
+    text-decoration: none;
+}
